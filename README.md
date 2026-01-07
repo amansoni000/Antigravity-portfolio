@@ -2,7 +2,10 @@
 
 > A premium, interactive developer portfolio featuring a "Luxury Dark & Digital" aesthetic, gravity-defying physics, and seamless animations.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/000000/ffffff?text=AntiGravity+Portfolio+Preview)
+Portfolio Preview : 
+<img width="1888" height="1085" alt="image" src="https://github.com/user-attachments/assets/ff6e3384-cdd0-4c4e-a1bf-fb143c180a9f" />
+<img width="1888" height="1085" alt="image" src="https://github.com/user-attachments/assets/f061628c-61d5-4e51-9f14-3428cf3ff47e" />
+
 
 ## ✨ Features
 
