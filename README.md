@@ -75,10 +75,6 @@ npm run build
 
 This will generate optimized static files in the `dist` directory, ready to be deployed to Vercel, Netlify, or GitHub Pages.
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 Designed & Built with ❤️ by **Aman Swarnkar**
